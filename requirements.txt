@@ -139,7 +139,7 @@ virtualenv==16.0.0
 w3lib==1.19.0
 websocket-client==0.48.0
 wechat-sender==0.1.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 win32core==221.36
 win32gui==221.6
 WsgiDAV==2.4.1
