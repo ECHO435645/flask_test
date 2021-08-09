@@ -103,7 +103,7 @@ python-dateutil==2.7.3
 python-editor==1.0.3
 python-scrapyd-api==2.1.2
 pytz==2018.5
-pywin32==223
+pywin32==301
 PyYAML==3.12
 pyzmq==17.1.2
 qt5reactor==0.5
