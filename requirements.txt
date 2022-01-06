@@ -44,7 +44,7 @@ Flask-Script-Extras==0.1.4
 Flask-SQLAlchemy==2.3.2
 funcparserlib==0.3.6
 future==0.16.0
-gerapy==0.8.5
+gerapy==0.9.9
 h5py==2.8.0
 hyperlink==18.0.0
 idna==2.7
