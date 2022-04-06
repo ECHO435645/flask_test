@@ -131,7 +131,7 @@ tesserocr==2.2.2
 tornado==4.5.3
 turtle==0.0.1
 tushare==1.2.12
-Twisted==16.2.0
+Twisted==22.2.0
 u-msgpack-python==2.5.0
 urllib3==1.23
 vine==1.1.4
